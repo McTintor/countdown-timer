@@ -2,6 +2,8 @@
 
 This is a simple countdown timer app built using HTML, CSS, and JavaScript. It counts down from the current date and time until August 31, 2024, displaying the remaining days, hours, minutes, and seconds.
 
+Check out the live version here: https://mctintor.github.io/countdown-timer/
+
 ## Features
 
 - **Countdown Display**: The app prominently displays the remaining time in days, hours, minutes, and seconds.
